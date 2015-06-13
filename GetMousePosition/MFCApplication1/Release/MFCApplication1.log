@@ -1,0 +1,17 @@
+﻿Build started 6/13/2015 3:33:33 PM.
+     1>Project "E:\C++学习\MFC坐标获取和文本框获取\MFCApplication1\MFCApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\MFCApplication1.res" MFCApplication1.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++学习\MFC坐标获取和文本框获取\Release\MFCApplication1.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\C++学习\MFC坐标获取和文本框获取\Release\MFCApplication1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++学习\MFC坐标获取和文本框获取\Release\MFCApplication1.lib" /MACHINE:X86 /SAFESEH Release\MFCApplication1.res
+         Release\MFCApplication1.obj
+         Release\MyDialog.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         MFCApplication1.vcxproj -> E:\C++学习\MFC坐标获取和文本框获取\Release\MFCApplication1.exe
+     1>Done Building Project "E:\C++学习\MFC坐标获取和文本框获取\MFCApplication1\MFCApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.83

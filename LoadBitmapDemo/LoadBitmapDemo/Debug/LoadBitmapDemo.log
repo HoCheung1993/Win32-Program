@@ -1,0 +1,19 @@
+﻿生成启动时间为 2014/7/20 13:33:32。
+     1>项目“D:\C++学习\LoadBitmapDemo\LoadBitmapDemo\LoadBitmapDemo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\LoadBitmapDemo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LoadBitmapDemo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LoadBitmapDemo.cpp
+         LoadBitmapDemo.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\LoadBitmapDemo.res" LoadBitmapDemo.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++学习\LoadBitmapDemo\Debug\LoadBitmapDemo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C++学习\LoadBitmapDemo\Debug\LoadBitmapDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++学习\LoadBitmapDemo\Debug\LoadBitmapDemo.lib" /MACHINE:X86 Debug\LoadBitmapDemo.res
+         Debug\LoadBitmapDemo.obj
+         Debug\stdafx.obj
+         LoadBitmapDemo.vcxproj -> D:\C++学习\LoadBitmapDemo\Debug\LoadBitmapDemo.exe
+     1>已完成生成项目“D:\C++学习\LoadBitmapDemo\LoadBitmapDemo\LoadBitmapDemo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.11
